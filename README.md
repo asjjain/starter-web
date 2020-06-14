@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 deployment steps 
 
 ## how to contribute
+
+### copyright
+
+asjflkasdjflkj
